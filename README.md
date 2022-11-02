@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alain Le Noac'h
 - 👀 I’m interested in efficient altruism and AI safety
-- 🌱 I’m currently working as an embedded software developer (C++/Python), but also studying machine learning
+- 🌱 I’m currently working as an embedded software developer (C++/Python), but also studying machine learning on my free time
 - 📫 How to reach me : alain.noach@outlook.com
 
 <!---
