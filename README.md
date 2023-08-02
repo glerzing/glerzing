@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Alain Le Noac'h, a machine learning engineer. I'm currently interested by job opportunities, especially in the UK.
-- 👀 I’m very interested in large language models, reinforcement learning and AI safety. I also enjoy math, chess, and feeling useful.
+- 👋 Hi, I’m Alain Le Noac'h, a software engineer. I'm currently interested by job opportunities, especially in Ireland.
 - 📫 alain.noach@outlook.com / [LinkedIn profile](https://www.linkedin.com/in/alain-le-noach-96534b131/)
 
 ### Professional experience
-Background experience developing C++ software and Python tests on safety-critical equipments in Thales.
+5 years of experience developing C++ software and Python tests on safety-critical equipments, including 4 years in Thales. I avoid getting into details here to be sure I don't share any sensitive information.
 
 ### Volunteer experience
 Wikipedia [translator](https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Contributions/Alenoach&target=Alenoach&offset=&limit=500) / [editor](https://en.wikipedia.org/wiki/Special:Contributions/Alenoach) on AI safety topics.
