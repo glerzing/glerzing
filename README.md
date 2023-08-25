@@ -2,10 +2,12 @@
 - 📫 alain.noach@outlook.com / [LinkedIn profile](https://www.linkedin.com/in/alain-le-noach-96534b131/)
 
 ### Professional experience
-5 years of experience developing C++ software and Python tests on safety-critical equipments, including 4 years in Thales. I avoid getting into details here to be sure I don't share any sensitive information.
+5 years of experience developing C++ software and Python tests for safety-critical equipments, including 4 years in Thales. I avoid getting into details here to be sure I don't share any sensitive information.
 
 ### Volunteer experience
 Wikipedia [translator](https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Contributions/Alenoach&target=Alenoach&offset=&limit=500) / [editor](https://en.wikipedia.org/wiki/Special:Contributions/Alenoach) on AI safety topics.
+
+Past experience with programming exercises on Euler Project (problems involving mathematics and programming, 205 problems solved) and [CryptoHack](https://cryptohack.org/user/Zergling/) (CTFs involving cryptography and programming).
 
 Contributed to [Tournesol](https://tournesol.app), a website that recommends high-quality YouTube videos, and collects data on people's ethical preferences :
 - Backend development
