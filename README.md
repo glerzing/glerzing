@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alain Le Noac'h, a software engineer. I'm currently interested by job opportunities, especially in Ireland.
+- 👋 Hi, I’m Alain Le Noac'h, a software engineer. I'm currently interested by job opportunities.
 - 📫 alain.noach@outlook.com / [LinkedIn profile](https://www.linkedin.com/in/alain-le-noach-96534b131/)
 
 ### Professional experience
