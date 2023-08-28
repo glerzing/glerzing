@@ -15,7 +15,7 @@ Contributed to [Tournesol](https://tournesol.app), a website that recommends hig
 - Coauthor of [Tournesol: Permissionless Collaborative Algorithmic Governance with Security Guarantees](https://arxiv.org/abs/2211.01179), a paper establishing a fair and secure voting scheme notably using linear algebra and Bayesian statistics.
 - [Tested multiple techniques for topic classification](https://github.com/tournesol-app/tournesol/issues/1468) on videos, such as lbl2vec, Latent Dirichlet Allocation and LLM prompt tuning.
 
-Completed 14 [Kaggle tutorials](https://www.kaggle.com/learn) related to machine learning (each tutorial generally takes around 4 hours, here are the completion certificates : [Kaggle_certificates.zip](https://github.com/glerzing/glerzing/files/11657136/Kaggle_certificates.zip)). Followed the Center For AI safety's [ML safety course](https://course.mlsafety.org/).
+Completed 14 [Kaggle tutorials](https://www.kaggle.com/learn) related to machine learning (each tutorial generally takes around 4 hours, here are the completion certificates : [Kaggle_certificates.zip](https://github.com/glerzing/glerzing/files/11657136/Kaggle_certificates.zip)).
 
 [Integrated peft](https://github.com/CarperAI/trlx/pull/486) (parameter-efficient fine-tuning, e.g. Lora) in [trlx](https://github.com/CarperAI/trlx), a Python library for fine-tuning large language models with reinforcement learning. This was a very interesting project for learning, which gave me some practical experience with LLMs, Hugging Face's transformers library, PyTorch, reinforcement learning, and distributed computing.
 
