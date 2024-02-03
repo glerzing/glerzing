@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Alain Le Noac'h, a software engineer.
-- 📫 alain.noach@outlook.com / [LinkedIn profile](https://www.linkedin.com/in/alain-le-noach-96534b131/)
-
 ### Professional experience
 5 years of experience developing C++ software and Python tests for safety-critical equipments, including 4 years in Thales.
 
